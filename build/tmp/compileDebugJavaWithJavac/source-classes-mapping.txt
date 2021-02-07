@@ -1,0 +1,10 @@
+com/example/escaperbird/R.java
+ com.example.escaperbird.R
+ com.example.escaperbird.R$color
+ com.example.escaperbird.R$drawable
+ com.example.escaperbird.R$string
+ com.example.escaperbird.R$style
+com/example/escaperbird/BuildConfig.java
+ com.example.escaperbird.BuildConfig
+com/example/escaperbird/AndroidLauncher.java
+ com.example.escaperbird.AndroidLauncher
